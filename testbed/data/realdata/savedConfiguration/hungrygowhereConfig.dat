@@ -1,0 +1,5 @@
+simConfig=data\realdata\savedConfiguration\hungrygowhereConfig\SimulationConfiguration.ini
+agentConfig=data\realdata\savedConfiguration\hungrygowhereConfig\AgentConfiguration.ini
+productConfig=data\realdata\savedConfiguration\hungrygowhereConfig\ProductConfiguration.ini
+schedConfig=data\realdata\savedConfiguration\hungrygowhereConfig\SchedulerConfiguration.ini
+masterConfig=null

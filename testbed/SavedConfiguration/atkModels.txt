@@ -1,0 +1,12 @@
+SybilSelective
+WhitewashingSelective
+CamouflageSelective
+SelectiveUnfairRating
+NoAttack
+Sybil
+AlwaysUnfair
+Whitewashing
+Sybil_Camouflage
+Sybil_Whitewashing
+Camouflage
+..

@@ -1,0 +1,5 @@
+simConfig=data\realdata\savedConfiguration\tripadvisorConfig\SimulationConfiguration.ini
+agentConfig=data\realdata\savedConfiguration\tripadvisorConfig\AgentConfiguration.ini
+productConfig=data\realdata\savedConfiguration\tripadvisorConfig\ProductConfiguration.ini
+schedConfig=data\realdata\savedConfiguration\tripadvisorConfig\SchedulerConfiguration.ini
+masterConfig=null

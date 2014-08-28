@@ -1,0 +1,5 @@
+simConfig=data\realdata\savedConfiguration\dianpingConfig\SimulationConfiguration.ini
+agentConfig=data\realdata\savedConfiguration\dianpingConfig\AgentConfiguration.ini
+productConfig=data\realdata\savedConfiguration\dianpingConfig\ProductConfiguration.ini
+schedConfig=data\realdata\savedConfiguration\dianpingConfig\SchedulerConfiguration.ini
+masterConfig=null
